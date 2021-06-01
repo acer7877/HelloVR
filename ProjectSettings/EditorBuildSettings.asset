@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/VRTK/Examples/[005 - Interactions] InteractableObjects.unity
+    guid: bece393a6b2458142935d8d7562c52d7
   - enabled: 1
     path: Assets/vrScene.unity
     guid: 1d9404d54146a584bbd78f9d917db5fd
